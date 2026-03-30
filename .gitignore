@@ -621,3 +621,5 @@ testing.py
 examples/config.json
 
 venv
+
+examples/data
